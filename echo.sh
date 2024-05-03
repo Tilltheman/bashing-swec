@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo $'abcd\refg'
+echo $'voodoo\rcrypt'
